@@ -4,5 +4,4 @@ My first repository
 
 my favorite movie is Our Yesterday's Escape because it makes me giggle every time I watch it.
 
-![alt text](<img width="1000" height="1501" alt="MV5BMTc5ZDg2YzEtNjE3Zi00NTE3LThlNTMtMzc5MDg3YWQ5MDM0XkEyXkFqcGc@ _V1_FMjpg_UX1000_" src="https://github.com/user-attachments/assets/81b495a5-f713-46f1-bef2-a11bf192ac3d" />
-)
+![alt text](https://github.com/user-attachments/assets/81b495a5-f713-46f1-bef2-a11bf192ac3d)
